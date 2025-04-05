@@ -1,5 +1,7 @@
 # Code Master
 
+This repository has moved to Codeberg: https://codeberg.org/thinkbeforecoding/codemaster
+
 This is a solver for [Code Master](https://www.thinkfun.com/products/code-master/), a game to learn programming logic.
 
 Being stuck with my son at the 49th level, we decided that solving it by programming a solver was not cheating.
